@@ -124,4 +124,4 @@ end
   cus_umak = Song.new("Cus Ummach", "Haifa Wehbe", "Rai")
 
   Song.genre_count
-binding.pry
+
